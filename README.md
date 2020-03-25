@@ -49,23 +49,23 @@ The files that can be found in this repository are the following:
 
 ## Summary of the results
 
-__Price Trends
+__Price Trends__
 
 We see that there is a clear fluctuation of the data where the summer months are the most expensive months in average and the winter months is the cheapest period (with a slight exception for the December month). Doing a quick search of the weather in Seattle for the different seasons, we see that the price fluctuations must be highly correlated with the weather forecast.
 
-The neighbourhood with the highest average price is __Fairmount Park
+The neighbourhood with the highest average price is __Fairmount Park__
 
-The property type with the highest average price is __Boat
+The property type with the highest average price is __Boat__
 
-The property type with the lowest average price is __Dorm
+The property type with the lowest average price is __Dorm__
 
-__Sentiment Analysis of the Reviews
+__Sentiment Analysis of the Reviews__
 
-The neighbourhood with the best reviews is __Broadway
+The neighbourhood with the best reviews is __Broadway__
 
-Aside from Fairmount Park which has no reviews and therefore a polarity score of 0, the neighbourhood with the worst rewviews is __Roxhill
+Aside from Fairmount Park which has no reviews and therefore a polarity score of 0, the neighbourhood with the worst rewviews is __Roxhill__
 
-__Price Prediction algorithm
+__Price Prediction algorithm__
 
 The most interesting algorithms are the AdaBoost, Decision Tree and the Nearest Neighboor Regressor. However if we have to make a decision at this stage we would keep the Decision Tree algorithm since it has the highest performance based on the time it takes to run the algorithm. In other words, the computing power required is much lower than the AdaBoost algorithm .
 
